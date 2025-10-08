@@ -1,5 +1,5 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi!%20I'm%20Seung gyu%20LEE%20:D&fontSize=35&fontColor=fff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi!%20I'm%20Seunggyu%20LEE%20:D&fontSize=35&fontColor=fff&animation=twinkling)
 
 ---
 
