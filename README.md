@@ -11,9 +11,7 @@
 ---
 ### 🎓 Education
 - Asia Economy Education Center 5th – AI Medical Healthcare Course  `2025.05 - 2025.11, ⌛ 900h`
-- Eulji University - Biomedical Engineering  `2023.02 - 2025.02`
-- Catholic Kwandong University - Bachelor of Engineering In Medical IT `2017.02 - 2022.02`
-
+- Eulji University - Bachelor of Biomedical Engineering  
 
 ### 🧠 Tech Stack
 
@@ -44,14 +42,12 @@
 ## 🚩 Projects
 | Title | Stack | Period | Organization / Course | Links |
 | :-- | :--: | :--: | :-- | :-- |
-|☁️ 클라우드 입문 프로젝트 — AWS로 첫 서버 배포하기 | AWS | 2025.04 ~ 2023.05 | 개인 프로젝트 | [GitHub](https://github.com/kohtaewoo/steelless) |
-| 🧮 자판기 회로 설계 **LogicWork Vending Machine** | LogicWorks | 2023.05 ~ 2023.07 | 컴퓨터구성 팀 프로젝트 | [GitHub](https://github.com/kohtaewoo/LogicWork_vending_machine) |
-| 🏥 방문 진료 플랫폼 **Dr.이리로** | React, Django REST Framework, AWS | 2023.09 ~ 2024.01 | FarmSystem 2기 3팀 (최우수상 수상작) | [Front-end](https://github.com/FarmSystem/Dr_eriro_frontend) [Back-end](https://github.com/FarmSystem/Dr_eriro_backend) |
 | 🍽️ 식당 예약 웹사이트 **SoftwareEngineering_TermProject** | JavaScript, HTML/CSS, Django | 2024.03 ~ 2024.06 | 소프트웨어공학 팀 프로젝트 | [GitHub](https://github.com/apg0001/SoftwareEngineering_TermProject) |
-| 🧵 운영체제 기반 셸 구현 **OS_Term_Project** | C, Bash | 2024.05 ~ 2024.07 | 운영체제 팀 프로젝트 | [GitHub](https://github.com/kohtaewoo/OS_Term_Project) |
-| 🎮 롤 추천 시스템 **LoL Recommend** | Python, Java, TypeScript | 2025.03 ~ 2025.06 | 데이터분석프로그래밍 | [Front](https://github.com/kohtaewoo/lol_recommend_front) [Back](https://github.com/kohtaewoo/lol_recommend_back) [ML](https://github.com/kohtaewoo/lol_recommend_py) |
-| 🧠 뇌졸중 예측 시스템 **Stroke Predictor** | Python, ML | 2025.03 ~ 2025.06 | 캡스톤디자인 | [GitHub](https://github.com/kohtaewoo/stroke-predictor) |
-| 👓 시력+MBTI 기반 자리 배치 시스템 **VisionSeat** | Java | 2025.07.04 ~ 진행중 | 개인 프로젝트 | [GitHub](https://github.com/moonstone0514/miniProject) |
+| 🧵 파이널 프로젝트 | C, Bash | 2025.10 ~ 2025.11 | 아시아경제 5기 2팀 | [GitHub](https://github.com/kohtaewoo/OS_Term_Project) |
+| 📦 유통데이터 활용 공모전 | Python, ML | 2025.09 ~ 2025.10 | 팀 통키즈 | [Front](https://github.com/kohtaewoo/lol_recommend_front) [Back](https://github.com/kohtaewoo/lol_recommend_back) [ML](https://github.com/kohtaewoo/lol_recommend_py) |
+| 🧠 유방암 환자 생존율 예측 모델 개발 **Breast Cancer Survival Predictor** | Python, ML | 2025.07 ~ 2025.08 | 개인 프로젝트 | [GitHub](https://github.com/kohtaewoo/stroke-predictor) |
+| 📈 유방암 환자 생존 예측 분석 | COLAB, Python, numpy | 2025.06 ~ 2025.07 | 아시아경제 5기 2팀 | [GitHub](https://github.com/moonstone0514/miniProject) |
+|☁️ 클라우드 입문 프로젝트 — AWS로 첫 서버 배포하기 | AWS | 2025.04 ~ 2023.05 | 개인 프로젝트 | [GitHub](https://github.com/kohtaewoo/steelless) |
 
 <br>
 
