@@ -51,6 +51,8 @@
 |☁️ 클라우드 입문 프로젝트 — AWS로 첫 서버 배포하기 | AWS | 2025.04 ~ 2023.05 | 개인 프로젝트 | [GitHub](https://github.com/kohtaewoo/steelless) |
 
 
+
+
 ## 🎫 ​​Certifications
 - ADsP (한국데이터산업진흥원, 2025.09)
 - 컴퓨터활용능력(2) (대한상공회의소, 2024.08)
