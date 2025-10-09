@@ -50,12 +50,12 @@
 | 📈 유방암 환자 생존 예측 분석 | COLAB, Python, numpy | 2025.06 ~ 2025.07 | 아시아경제 5기 2팀 | [GitHub](https://github.com/moonstone0514/miniProject) |
 |☁️ 클라우드 입문 프로젝트 — AWS로 첫 서버 배포하기 | AWS | 2025.04 ~ 2023.05 | 개인 프로젝트 | [GitHub](https://github.com/kohtaewoo/steelless) |
 
-<br>
+
 ## 🎫 ​​Certifications
 - ADsP (한국데이터산업진흥원, 2025.09)
 - 컴퓨터활용능력(2) (대한상공회의소, 2024.08)
 - TOEIC Speaking IM3 (YBM, 2024.10)
-<br>
+
 
 
 
