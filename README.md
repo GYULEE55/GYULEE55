@@ -55,8 +55,9 @@
 
 ## 🎫 ​​Certifications
 - ADsP (한국데이터산업진흥원, 2025.09)
+- TOEIC (820, 2025.03)
+- TOEIC Speaking (IM3, 2024.10)
 - 컴퓨터활용능력(2) (대한상공회의소, 2024.08)
-- TOEIC Speaking IM3 (YBM, 2024.10)
 
 
 
