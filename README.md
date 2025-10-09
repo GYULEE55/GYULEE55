@@ -43,16 +43,18 @@
 ## 🚩 Projects
 | Title | Stack | Period | Organization / Course | Links |
 | :-- | :--: | :--: | :-- | :-- |
-| 클라우드 프로젝트 | JavaScript, HTML/CSS, Django | 2025.10 ~ 진행 중 | 개인 프로젝트 | [GitHub](https://github.com/apg0001/SoftwareEngineering_TermProject) |
 | 🧵 파이널 프로젝트 | C, Bash | 2025.10 ~ 2025.11 | 아시아경제 5기 2팀 | [GitHub](https://github.com/kohtaewoo/OS_Term_Project) |
+| 클라우드 프로젝트 | JavaScript, HTML/CSS, Django | 2025.10 ~ 진행 중 | 개인 프로젝트 | [GitHub](https://github.com/apg0001/SoftwareEngineering_TermProject) |
 | 📦 유통데이터 활용 공모전 | Python, ML | 2025.09 ~ 2025.10 | 팀 통키즈 | [Front](https://github.com/kohtaewoo/lol_recommend_front) [Back](https://github.com/kohtaewoo/lol_recommend_back) [ML](https://github.com/kohtaewoo/lol_recommend_py) |
 | 🧠 유방암 환자 생존율 예측 모델 개발 **Breast Cancer Survival Predictor** | Python, ML | 2025.07 ~ 2025.08 | 개인 프로젝트 | [GitHub](https://github.com/kohtaewoo/stroke-predictor) |
 | 📈 유방암 환자 생존 예측 분석 | COLAB, Python, numpy | 2025.06 ~ 2025.07 | 아시아경제 5기 2팀 | [GitHub](https://github.com/moonstone0514/miniProject) |
 |☁️ 클라우드 입문 프로젝트 — AWS로 첫 서버 배포하기 | AWS | 2025.04 ~ 2023.05 | 개인 프로젝트 | [GitHub](https://github.com/kohtaewoo/steelless) |
 
 <br>
-
-
+## 🎫 ​​Certifications
+- ADsP (한국데이터산업진흥원, 2025.09)
+- 컴퓨터활용능력(2) (대한상공회의소, 2024.08)
+- TOEIC Speaking IM3 (YBM, 2024.10)
 <br>
 
 
