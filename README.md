@@ -10,9 +10,10 @@
 
 ---
 ### 🎓 Education
-- Catholic Kwandong University - Bachelor of Engineering In Medical IT `2017.02 - 2023.02`
-- Eulji University - Biomedical Engineering  `2023.02 - 2025.02`
 - Asia Economy Education Center 5th – AI Medical Healthcare Course  `2025.05 - 2025.11, ⌛ 900h`
+- Eulji University - Biomedical Engineering  `2023.02 - 2025.02`
+- Catholic Kwandong University - Bachelor of Engineering In Medical IT `2017.02 - 2022.02`
+
 
 ### 🧠 Tech Stack
 
