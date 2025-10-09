@@ -43,7 +43,7 @@
 ## 🚩 Projects
 | Title | Stack | Period | Organization / Course | Links |
 | :-- | :--: | :--: | :-- | :-- |
-| 🛠️ 철근 누락 감지 시스템 **Steelless** | Python, OpenCV | 2023.04 ~ 2023.05 | 개인 프로젝트 | [GitHub](https://github.com/kohtaewoo/steelless) |
+|☁️ 클라우드 입문 프로젝트 — AWS로 첫 서버 배포하기 | AWS | 2025.04 ~ 2023.05 | 개인 프로젝트 | [GitHub](https://github.com/kohtaewoo/steelless) |
 | 🧮 자판기 회로 설계 **LogicWork Vending Machine** | LogicWorks | 2023.05 ~ 2023.07 | 컴퓨터구성 팀 프로젝트 | [GitHub](https://github.com/kohtaewoo/LogicWork_vending_machine) |
 | 🏥 방문 진료 플랫폼 **Dr.이리로** | React, Django REST Framework, AWS | 2023.09 ~ 2024.01 | FarmSystem 2기 3팀 (최우수상 수상작) | [Front-end](https://github.com/FarmSystem/Dr_eriro_frontend) [Back-end](https://github.com/FarmSystem/Dr_eriro_backend) |
 | 🍽️ 식당 예약 웹사이트 **SoftwareEngineering_TermProject** | JavaScript, HTML/CSS, Django | 2024.03 ~ 2024.06 | 소프트웨어공학 팀 프로젝트 | [GitHub](https://github.com/apg0001/SoftwareEngineering_TermProject) |
