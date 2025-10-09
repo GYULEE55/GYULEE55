@@ -6,19 +6,19 @@
 
 ---
 
-###  About Me
+##  About Me
 🚀 Passionate about transforming data into actionable insights through cloud-based analytics
 
 🔧 Exploring Data Engineering & Cloud Platforms (AWS, GCP) to deliver scalable, automated pipelines
 
 ---
-### 🎓 Education
+## 🎓 Education
 - Asia Economy Education Center 5th – AI Medical Healthcare Course
   `2025.05 - 2025.11, ⌛ 900h`
 - Eulji University - Bachelor of Biomedical Engineering  
 ---
 
-### 🧠 Tech Stack
+## 🧠 Tech Stack
 
 #### ☁️ Cloud & DevOps  
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
