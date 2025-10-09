@@ -13,6 +13,7 @@
 - Asia Economy Education Center 5th – AI Medical Healthcare Course
   `2025.05 - 2025.11, ⌛ 900h`
 - Eulji University - Bachelor of Biomedical Engineering  
+---
 
 ### 🧠 Tech Stack
 
@@ -37,8 +38,7 @@
 #### 🗄️ Database  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-<br>
+---
 
 ## 🚩 Projects
 | Title | Stack | Period | Organization / Course | Links |
@@ -51,7 +51,7 @@
 |☁️ 클라우드 입문 프로젝트 — AWS로 첫 서버 배포하기 | AWS | 2025.04 ~ 2023.05 | 개인 프로젝트 | [GitHub](https://github.com/kohtaewoo/steelless) |
 
 
-
+---
 
 ## 🎫 ​​Certifications
 - ADsP (한국데이터산업진흥원, 2025.09)
