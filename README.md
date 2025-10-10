@@ -51,7 +51,7 @@
 | 📦 유통데이터 활용 공모전 | Python, ML | 2025.09 ~ 2025.10 | 팀 통키즈 | [Front](https://github.com/kohtaewoo/lol_recommend_front) [Back](https://github.com/kohtaewoo/lol_recommend_back) [ML](https://github.com/kohtaewoo/lol_recommend_py) |
 | 🧠 유방암 환자 생존율 예측 모델 개발 **Breast Cancer Survival Predictor** | Python, ML | 2025.07 ~ 2025.08 | 개인 프로젝트 | [GitHub](https://github.com/kohtaewoo/stroke-predictor) |
 | 📈 유방암 환자 생존 예측 분석 | COLAB, Python, numpy | 2025.06 ~ 2025.07 | 아시아경제 5기 2팀 | [GitHub](https://github.com/moonstone0514/miniProject) |
-|☁️ 클라우드 입문 프로젝트 — AWS로 첫 서버 | AWS | 2025.04 ~ 2023.05 | 개인 프로젝트 | [GitHub]([https://github.com/kohtaewoo/steelless](https://github.com/GYULEE55/-AWS-Cloud-Practice-)) |
+|☁️ 클라우드 입문 프로젝트 — AWS로 첫 서버 | AWS | 2025.04 ~ 2023.05 | 개인 프로젝트 | [GitHub](https://github.com/GYULEE55/-AWS-Cloud-Practice-) |
 
 
 ---
