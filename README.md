@@ -47,7 +47,7 @@
 | Title | Stack | Period | Organization / Course | Links |
 | :-- | :--: | :--: | :-- | :-- |
 | 🧵 파이널 프로젝트 | C, Bash | 2025.10 ~ 2025.11 | 아시아경제 5기 2팀 | [GitHub]() |
-| 클라우드 프로젝트 | AWS,Colab,Python | 2025.10 ~ 진행 중 | 개인 프로젝트 | [GitHub]() |
+| 클라우드 프로젝트 | AWS,Colab,Python | 2025.10 ~ 진행 중 | 개인 프로젝트 | [GitHub](https://github.com/GYULEE55/brain_aws_cloud-project) |
 | 📦 유통데이터 활용 공모전 | Python, ML | 2025.09 ~ 2025.10 | 팀 통키즈 |  [ML]() |
 | 🧠 유방암 환자 생존율 예측 모델 개발 **Breast Cancer Survival Predictor** | Python, ML | 2025.07 ~ 2025.08 | 개인 프로젝트 | [GitHub]() |
 | 📈 유방암 환자 생존 예측 분석 | COLAB, Python, numpy | 2025.06 ~ 2025.07 | 아시아경제 5기 2팀 | [GitHub]() |
