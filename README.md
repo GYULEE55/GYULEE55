@@ -37,17 +37,18 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 #### 🗄️ Database  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ---
 
 ## 🚩 Projects
 | Title | Stack | Period | Organization / Course | Links |
 | :-- | :--: | :--: | :-- | :-- |
 | 🧵 파이널 프로젝트 | C, Bash | 2025.10 ~ 2025.11 | 아시아경제 5기 2팀 | [GitHub]() |
-| 클라우드 프로젝트 | AWS,Colab,Python | 2025.10 ~ 진행 중 | 개인 프로젝트 | [GitHub](https://github.com/GYULEE55/brain_aws_cloud-project) |
+| 클라우드 프로젝트 | AWS,Tensorflow,Python | 2025.10 ~ 진행 중 | 개인 프로젝트 | [GitHub](https://github.com/GYULEE55/brain_aws_cloud-project) |
 | 📦 유통데이터 활용 공모전 | Python, ML | 2025.09 ~ 2025.10 | 팀 통키즈 |  [ML]() |
 | 🧠 유방암 환자 생존율 예측 모델 개발 **Breast Cancer Survival Predictor** | Python, ML | 2025.07 ~ 2025.08 | 개인 프로젝트 | [GitHub]() |
 | 📈 유방암 환자 생존 예측 분석 | COLAB, Python, numpy | 2025.06 ~ 2025.07 | 아시아경제 5기 2팀 | [GitHub]() |
