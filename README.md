@@ -48,9 +48,9 @@
 | Title | Stack | Period | Organization / Course | Links |
 | :-- | :--: | :--: | :-- | :-- |
 | 📈 펭귄 아일랜드 | AWS, Python, Docker  | 2025.11 ~ 2025.11 | Peungin 팀 | [Cloud](https://github.com/SoftBank-Hackathon-2025-penguin/CloudWatch-Metric.git) |
-| 🧵 딥페이크 탐지 웹사이트 (최우수상) | Pytorch,Streamlit,AWS | 2025.10 ~ 2025.11 | 명탐정 승모 | [DL](https://github.com/GYULEE55/Final_project.git) |
+| 🥇 딥페이크 탐지 웹사이트 (최우수상) | Pytorch,Streamlit,AWS | 2025.10 ~ 2025.11 | 명탐정 승모 | [DL](https://github.com/GYULEE55/Final_project.git) |
 | 🧠  ML model A/B Test 프로젝트 | AWS,Tensorflow,Python | 2025.09 ~ 2025.10 | 개인 프로젝트 | [ML,Cloud](https://github.com/GYULEE55/brain_aws_cloud-project) |
-| 📦 유통데이터 활용 공모전 (우수상) | Python, ML | 2025.09 ~ 2025.10 | 사고팔조 |  [ML](https://github.com/GYULEE55/Retail-Festa.git) |
+| 🥉 유통데이터 활용 공모전 (우수상) | Python, ML | 2025.09 ~ 2025.10 | 사고팔조 |  [ML](https://github.com/GYULEE55/Retail-Festa.git) |
 | 📈 유방암 환자 생존율 예측 모델 개발 | Python, ML | 2025.07 ~ 2025.08 | 팀 통키즈 | [ML]() |
 | ☁️ 클라우드로 데이터 분석 — AWS로 첫 서버 | AWS | 2025.04 ~ 2023.05 | 개인 프로젝트 | [Cloud](https://github.com/GYULEE55/-AWS-Cloud-Practice-) |
 
